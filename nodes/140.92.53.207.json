@@ -1,0 +1,8 @@
+{"run_list": ["recipe[user]","recipe[nginx]"],
+ "user": {
+     "name": "sysadmin",
+     "password": "$1$j9ePt6v9$I82hk36c2ubwcpmjJ4ZHv1"
+  }
+
+
+}
